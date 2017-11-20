@@ -1,0 +1,164 @@
+var friendsArray = [
+  {
+      "name":"Mike",
+      "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t31.0-8/466025_763359783887_1188073415_o.jpg?oh=561283b5739397e8a019fb61cb024261&oe=5A8FCD53",
+      "scores":[
+         5,
+         1,
+         4,
+         4,
+         5,
+         1,
+         2,
+         5,
+         4,
+         1
+          ]
+      },
+  {
+  "name":"Ashley",
+  "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/12321460_10205712588874035_4774722432914389310_n.jpg?oh=a9b24ddbfc4cedd2259325a06631164f&oe=5AAAEA75",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Edoardo",
+  "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/37712_1576076161538_5996205_n.jpg?oh=9e1e809dee2b7c7b533f674bc723916b&oe=5AA2AFCD",
+  "scores":[
+     9,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Kristin",
+  "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14040208_10154294219806397_8103043989950667875_n.jpg?oh=514b95899d34e7b1403e338cc9575d38&oe=5AA3D4BB",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Matthias",
+  "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/21768414_10155601397841397_765917830263712777_n.jpg?oh=361894ced3dabefd64776f18a3212156&oe=5AA09756",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Colleen",
+  "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/17991101_10155059226471397_2309850492625567296_n.jpg?oh=0b42e7238a9000a373b90045475d5431&oe=5AAA6126",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Chris",
+  "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/18700111_10208815623003081_8564820003996003196_n.jpg?oh=77b5275962188bcdb4e9bf071051b00b&oe=5A8AFBE9",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Tim",
+  "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t31.0-8/10828177_10101010501214474_4211059137571136803_o.jpg?oh=95ca5f30601c49cd6c9aa8db8293f78c&oe=5A9B541C",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Will",
+  "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/23319194_10210769559247681_281826765222124727_n.jpg?oh=860c04b17b398c568734480df2415379&oe=5A9B8576",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Katie",
+  "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/23754637_10210457878231282_7319344384735123959_n.jpg?oh=dbf270fa1ee4918f57fa5316b99ef59a&oe=5A969C1B",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+}
+]
+
+module.exports = friendsArray;
